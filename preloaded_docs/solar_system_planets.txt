@@ -1,0 +1,19 @@
+The Solar System: Planets Overview
+
+Mercury is the closest planet to the Sun and the smallest planet in the solar system. It has no moons and almost no atmosphere, which means its surface temperature swings dramatically, from about 430°C during the day to -180°C at night. A year on Mercury (one orbit around the Sun) takes only 88 Earth days, but a single day on Mercury (sunrise to sunrise) takes 176 Earth days because of its slow rotation.
+
+Venus is the second planet from the Sun and is often called Earth's "sister planet" because of its similar size and mass. However, Venus has a thick, toxic atmosphere made mostly of carbon dioxide, with clouds of sulfuric acid. This creates an extreme greenhouse effect, making Venus the hottest planet in the solar system, with surface temperatures around 465°C, even hotter than Mercury despite being farther from the Sun. Venus rotates very slowly and in the opposite direction to most planets, so the Sun rises in the west and sets in the east.
+
+Earth is the third planet from the Sun and the only known planet to support life. About 71% of its surface is covered in water. Earth has one natural moon and a protective atmosphere composed mainly of nitrogen and oxygen. It takes 365.25 days to orbit the Sun, which is why a leap day is added every four years.
+
+Mars, the fourth planet, is known as the "Red Planet" due to iron oxide (rust) on its surface. Mars has the largest volcano in the solar system, Olympus Mons, which is about three times taller than Mount Everest. It also has two small moons, Phobos and Deimos. Mars has been a major focus of space exploration because evidence suggests it once had liquid water on its surface, raising questions about whether it could have hosted microbial life.
+
+Jupiter is the largest planet in the solar system, more than twice as massive as all the other planets combined. It is a gas giant made mostly of hydrogen and helium. Jupiter's Great Red Spot is a giant storm that has been raging for at least 350 years and is larger than Earth. Jupiter has at least 95 known moons, including the four largest called the Galilean moons: Io, Europa, Ganymede, and Callisto.
+
+Saturn is famous for its spectacular ring system, made mostly of ice particles with some rocky debris and dust. It is also a gas giant and is the least dense planet in the solar system, so dense that it would float in water if there were an ocean large enough. Saturn has 146 confirmed moons, the largest being Titan, which has a thick atmosphere and lakes of liquid methane.
+
+Uranus is an ice giant with a unique feature: it rotates on its side, with an axial tilt of about 98 degrees. This means its poles experience 42 years of continuous sunlight followed by 42 years of darkness. Uranus has a pale blue-green color due to methane in its atmosphere, which absorbs red light.
+
+Neptune is the farthest planet from the Sun and another ice giant. It has the strongest winds in the solar system, reaching speeds of over 2,000 kilometers per hour. Neptune was the first planet to be discovered through mathematical prediction rather than direct observation, after astronomers noticed irregularities in Uranus's orbit.
+
+Pluto was considered the ninth planet until 2006, when the International Astronomical Union reclassified it as a "dwarf planet" because it had not cleared its orbital neighborhood of other debris. Pluto is located in the Kuiper Belt, a region of icy bodies beyond Neptune.

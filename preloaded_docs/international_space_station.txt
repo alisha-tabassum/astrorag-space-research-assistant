@@ -1,0 +1,13 @@
+The International Space Station (ISS)
+
+The International Space Station is a large spacecraft that orbits Earth and serves as a home and laboratory for astronauts. It is a collaborative project involving five space agencies: NASA (United States), Roscosmos (Russia), JAXA (Japan), ESA (Europe), and CSA (Canada). Construction of the ISS began in 1998 with the launch of its first module, and it has been continuously occupied by rotating crews of astronauts since November 2000, making it one of the longest continuous human presences in space.
+
+The ISS orbits Earth at an altitude of approximately 400 kilometers and travels at a speed of about 28,000 kilometers per hour, meaning it completes a full orbit of Earth roughly every 90 minutes. This means astronauts aboard the station experience about 16 sunrises and sunsets every single day.
+
+The station is about the size of a football field, including its solar panels, which provide electrical power by converting sunlight into electricity. Inside, the ISS has living quarters, science labs, and exercise equipment, since astronauts must exercise roughly two hours a day to counteract the muscle and bone density loss caused by extended time in microgravity.
+
+Astronauts aboard the ISS conduct thousands of scientific experiments across fields such as biology, physics, astronomy, and materials science, taking advantage of the unique microgravity environment that cannot be replicated on Earth. Research conducted on the ISS has contributed to advances in medicine, including studies on protein crystal growth relevant to drug development, as well as a deeper understanding of how the human body adapts to long-duration spaceflight, which is critical for planning future missions to the Moon and Mars.
+
+Crews typically stay aboard the ISS for about six months at a time, though some astronauts have stayed for a year or longer as part of extended research missions. Resupply missions deliver food, equipment, and scientific materials via uncrewed cargo spacecraft from multiple countries and private companies.
+
+The ISS is expected to remain operational into the early 2030s, after which it is planned to be deorbited, with newer commercial space stations expected to take over as platforms for research and future space exploration in low Earth orbit.
